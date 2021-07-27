@@ -1,4 +1,10 @@
 # somethings
+
+## freeStudying
+* CSP(/CSP)
+  - Content Security Policy
+  - 용어, 문제 발생, 해결, 결론 및 느낀점 등
+
 ## issues
 1. [20210726] windows 10의 이모지 아이콘을 apple 이모지로 변경할 수 있을까?
   - html 마크업 안에 유니코드(&#...;)를 삽입하였을 때, 브라우저 상에 이모지 모양으로 변경되는 것을 확인 할 수 있다.
