@@ -1,4 +1,4 @@
-# somethings
+# knowledge
 
 ## freeStudying
 * CSP(/CSP)
